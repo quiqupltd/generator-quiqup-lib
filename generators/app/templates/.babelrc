@@ -1,0 +1,25 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "browsers": [
+            "last 2 versions"
+          ]
+        },
+        "include": [
+          "es6.promise",
+          "es6.object.assign"
+        ],
+        "loose": true,
+        "modules": false
+      }
+    ]
+  ],
+  "env": {
+    "test": {
+      "presets": ["env"]
+    }
+  }
+}

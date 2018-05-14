@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Quiqup Frontend Team",
+      "authorEmail": "dev@quiqup.com",
+      "authorUrl": "https://quiqup.com"
+    }
+  }
+}
